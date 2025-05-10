@@ -6,5 +6,5 @@
 #  - snowflake-snowpark-python=
 #  - streamlit=
 
-snoflake-snowpark-python
+snowflake-snowpark-python
 streamlit
